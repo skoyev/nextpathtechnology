@@ -1,6 +1,6 @@
 <?php
 /**
- * Twenty Twenty-Two functions and definitions
+ * Twenty Twenty-Two functions and definitions Test
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
